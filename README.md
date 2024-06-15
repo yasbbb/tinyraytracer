@@ -49,7 +49,7 @@ git clone https://github.com/yashbbb009/tinyraytracer/
 2. **Navigate to the Project Directory :**
 
 ```bash
-cd Raycast-Motor
+cd tinyraytracer
 ```
 
 3. **Create a Build Directory :**
@@ -82,7 +82,7 @@ cp _deps/sfml-build/lib/sfml-system-d-2.dll Debug/
 7. **Run the Executable :**
 
 ```bash
-./Debug/Raycast-Motor
+./Debug/tinyraytracer
 ```
 
 ## Usage
