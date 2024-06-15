@@ -1,9 +1,5 @@
 # Raycasting 3D Engine in C++ (2021)
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B-0052cf)
-![Libraries](https://img.shields.io/badge/Libraries-SFML-yellow)
-![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
-
 This is a simple 3D Raycasting engine implemented from scratch in C++, utilizing the SFML library for graphics rendering. The engine provides both a 3D perspective view and a 2D top-down map generated using a random path-fusion algorithm.
 
 ## Features
