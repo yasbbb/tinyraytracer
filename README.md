@@ -47,7 +47,7 @@ To build the project, use CMake and follow these steps :
 1. **Clone the Repository :**
 
 ```bash
-git clone https://github.com/Atafid/Raycast-Motor.git
+git clone https://github.com/yashbbb009/tinyraytracer/
 ```
 
 2. **Navigate to the Project Directory :**
@@ -113,6 +113,3 @@ cp _deps/sfml-build/lib/sfml-system-d-2.dll Debug/
 </p>
 
 
-## Credits
-
-- Project developed by Guillaume DI FATTA
