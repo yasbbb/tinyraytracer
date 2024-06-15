@@ -24,21 +24,7 @@ This is a simple 3D Raycasting engine implemented from scratch in C++, utilizing
   - `2d.h`: Header file for the 2D view.
   - `3d.h`: Header file for the 3D Raycasting engine.
 
-- **Raycasting.sln, Raycasting.vcxproj, Raycasting.vcxproj.filters, Raycasting.vcxproj.user :**
-  Visual Studio project files.
-
-- **CMakeLists.txt :**
-  CMake configuration file for building the project with SFML 2.6.0.
-
-- **README.md :**
-  This file, containing project information, instructions, and usage details.
-
-- **.gitignore :**
-  Specifies files and directories to be ignored by Git, including build artifacts.
-
-## Building the Project
-
-To build the project, use CMake and follow these steps :
+## Build
 
 1. **Clone the Repository :**
 
@@ -87,16 +73,13 @@ cp _deps/sfml-build/lib/sfml-system-d-2.dll Debug/
 
 ## Usage
 
-- **Movement :**
-- Use `W` to move forward.
-- Use `A` to move left.
-- Use `S` to move backward.
-- Use `D` to move right.
+- Movement
+- Use `W` - forward.
+- Use `A` - left.
+- Use `S` -  backward.
+- Use `D` -  right.
+- mouse to move 
 
-- **Mouse Movement :**
-- Move the mouse to change the view direction.
-
-## Screenshots
 
 ### 3D Perspective View
 <p align="center">
